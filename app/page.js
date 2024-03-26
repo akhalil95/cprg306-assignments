@@ -14,6 +14,8 @@ export default function Page() {
         <LinkCard href="/week-5" title="Week 5" />
         <LinkCard href="/week-6" title="Week 6" />
         <LinkCard href="/week-7" title="Week 7" />
+        <LinkCard href="/week-8" title="Week 8" />
+        <LinkCard href="/week-10" title="Week 10" />
       </div>
     </main>
   );
